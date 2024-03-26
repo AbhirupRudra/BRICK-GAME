@@ -19,4 +19,4 @@ POINT SCHEME -
 
 Now go and play the game by running the '''main.py''' file and enjoy....
 
-![demo](https://github.com/AbhirupRudra/BRICK-GAME/assets/78957539/854899b1-69eb-49f2-a0a2-a39841362340)
+![demo](https://github.com/AbhirupRudra/BRICK-GAME/assets/78957539/6b73776c-c902-4552-b6ee-ef4fb86d200b)
