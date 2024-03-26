@@ -23,7 +23,7 @@ music_txt = btn_font.render("MUSIC", True, Colors.white)
 m_txt = btn_font.render("(M)", True, Colors.white)
 
 sbtn_font = pygame.font.Font(None, 12)
-fd_txt1 = sbtn_font.render("FULL", True, Colors.white)
+fd_txt1 = sbtn_font.render("FIVE", True, Colors.white)
 fd_txt2 = sbtn_font.render("DOWN", True, Colors.white)
 down_txt = sbtn_font.render("DOWN", True, Colors.white)
 left_txt = sbtn_font.render("LEFT", True, Colors.white)
