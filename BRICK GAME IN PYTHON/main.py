@@ -155,11 +155,11 @@ while True:
 	screen.blit(music_txt, (120, 495, 50, 50))
 	screen.blit(m_txt, (130, 510, 50, 50))
 
-	# FULL DOWN BUTTON
+	# FIVE DOWN BUTTON
 	pygame.draw.circle(screen, (255, 0, 0), [100, 550], 15, 0)
 	if 85<=mouse[0]<=115 and 535<=mouse[1]<=565:
 		pygame.draw.circle(screen, (245, 64, 64), [100, 550], 15, 0)
-	screen.blit(fd_txt1, (90, 515, 50, 50))
+	screen.blit(fd_txt1, (91, 515, 50, 50))
 	screen.blit(fd_txt2, (87, 525, 50, 50))
 
 	# STEP DOWN BUTTON
